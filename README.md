@@ -4,7 +4,7 @@ A simple buzzword bingo game created while going through the [Building Web Apps 
 
 ### Requirements:
   * [Node.js](https://nodejs.org)
-  * [Elm](http://elm-lang.org) - `npm install -g elm@0.18.0`
+  * [Elm](http://elm-lang.org) — `npm install -g elm@0.18.0`
 
 ### To run locally:
   * download the repo
